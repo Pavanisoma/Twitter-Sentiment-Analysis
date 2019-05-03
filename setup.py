@@ -18,8 +18,8 @@ setup(
     url='',
 
 
-    author='Pavanisomarouthu',
-    author_email='pavani.somarouthu@sjsu.edu',
+    author='User Name',
+    author_email='EmailId',
 
 
     classifiers=[
